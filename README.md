@@ -4,7 +4,7 @@
 
 This is the code repository for [Microsoft 365 and SharePoint Online Cookbook](Packt UTM URL of the Book), published by Packt.
 
-**Subtitle from EPIC**
+**Over 100 actionable recipes to help you perform everyday tasks effectively in Microsoft 365**
 
 ## What is this book about?
 Microsoft 365 in an integrated suite that provides intelligent tools for managing everyday organizational tasks like content management, communication, creating reports, and automating business processes. With this book, you’ll get to grips with popular apps from Microsoft, with a focus on enabling workspace collaboration using Microsoft SharePoint Online.
