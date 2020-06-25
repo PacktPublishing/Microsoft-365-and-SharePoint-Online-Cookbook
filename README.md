@@ -40,7 +40,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1 to 20  | Microsoft Office 365                | Windows                            |
+| 1 to 19  | Microsoft Office 365                | Windows                            |
 
 
 ### Related products <Other books you may enjoy>
