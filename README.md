@@ -34,7 +34,7 @@ if (test expression)
 **Following is what you need for this book:**
 This book is for business professionals, IT administrators, enterprise developers and architects, and anyone who wants to get to grips with using M365 for effective implementation of Microsoft apps. Prior experience with Office 365 and SharePoint will assist with understanding the recipes effortlessly.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-20).
 
 ### Software and Hardware List
 
