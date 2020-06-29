@@ -1,8 +1,8 @@
 # Microsoft 365 and SharePoint Online Cookbook
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Microsoft 365 and SharePoint Online Cookbook" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/business-other/microsoft-office-365-and-sharepoint-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838646677"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838646677-original_35.png" alt="Microsoft 365 and SharePoint Online Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [Microsoft 365 and SharePoint Online Cookbook](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Microsoft 365 and SharePoint Online Cookbook](https://www.packtpub.com/business-other/microsoft-office-365-and-sharepoint-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838646677), published by Packt.
 
 **Over 100 actionable recipes to help you perform everyday tasks effectively in Microsoft 365**
 
