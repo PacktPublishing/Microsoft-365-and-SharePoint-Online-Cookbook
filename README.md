@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/microsoft-365-and-sharepoint-online-cookbook/9781838646677)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1838646671).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Microsoft 365 and SharePoint Online Cookbook
 
 <a href="https://www.packtpub.com/business-other/microsoft-office-365-and-sharepoint-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838646677"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838646677-original_35.png" alt="Microsoft 365 and SharePoint Online Cookbook" height="256px" align="right"></a>
